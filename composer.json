@@ -1,0 +1,16 @@
+{
+    "name": "vshswy/alidayu",
+    "description": "alidayu",
+    "authors": [
+        {
+            "name": "史文泳",
+            "email": "309432314@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
