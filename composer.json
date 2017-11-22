@@ -9,8 +9,8 @@
     ],
     "require": {},
     "autoload": {
-        "classmap": [
-            "src/"
-        ]
+        "psr-4": {
+            "Vshswy\\alidayu\\": "src"
+        }
     }
 }
