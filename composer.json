@@ -7,7 +7,11 @@
             "email": "309432314@qq.com"
         }
     ],
-    "require": {},
+    "keywords": ["alidayu", "vshswy"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6.27"
+    },
     "autoload": {
         "psr-4": {
             "Vshswy\\alidayu\\": "src"
